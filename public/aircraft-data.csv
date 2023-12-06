@@ -1,0 +1,870 @@
+manufacturer,icao_code,model,physical_class,number_of_engines,weight
+Acro Sport,SACE,Super Ace,Piston,1,0.46719976
+Acro Sport,JACE,Junior Ace,Piston,1,0.5556502
+Acro Sport,COUG,Cougar,Piston,1,0.56699
+Acro Sport,ACRO,Acro Sport,Piston,1,0.6123492
+Acro Sport,ACRO,Super Acro Sport,Piston,1,0.6123492
+Acro Sport,ACR2,Acro Sport II,Piston,1,0.68945984
+Adam Aircraft Industries,A500,A-500,Piston,2,3.175144
+Adam Aircraft Industries,A700,A-700 AdamJet,Jet,2,3.4472992
+Aeritalia,G222,G222,Turboprop,2,28.00023416
+Aermacchi / Macchi,M308,MB-308,Piston,1,0.649997336
+Aermacchi / Macchi,F260,SIAI-Marchetti SF.260 (now Leonardo SF-260),Piston,1,1.299994672
+Aermacchi / Macchi,AM3,AM-3CM Bosbok,Piston,1,1.700062816
+Aermacchi / Macchi,LA60,AL-60-B2,Piston,1,1.745875608
+Aermacchi / Macchi,L90,M-290 TP Redigo,Turboprop,1,1.90055048
+Aermacchi / Macchi,M326,MB-326,Jet,1,3.7648136
+Aermacchi / Macchi,M339,MB-339,Jet,1,5.896696
+Aermacchi / Macchi,M346,M-346 Master,Jet,1,9.50048444
+Aero Boero,AB95,AB-95,Piston,1,0.699892456
+Aero Boero,AB11,AB-115 BS,Piston,1,0.769745624
+Aero Boero,AB18,AB-180 RVR,Piston,1,0.889947504
+Aero Boero,AB15,AB-150 Ag,Piston,1,1.001077544
+Aero Commander Aircraft,CLB1,A-9 Quail Commander (A9B-M),Piston,1,1.7236496
+Aero Commander Aircraft,AC52,520 Twin Commander,Piston,2,2.5854744
+Aero Commander Aircraft,AC50,500 Commander,Piston,2,2.721552
+Aero Commander Aircraft,AC56,560 and 560-A Twin Commander,Piston,2,2.721552
+Aero Commander Aircraft,AC50,500-A Commander,Piston,2,2.83495
+Aero Commander Aircraft,AC56,560-E Commander,Piston,2,2.948348
+Aero Commander Aircraft,AC50,500-B Commander,Piston,2,3.061746
+Aero Commander Aircraft,AC50,500U/500S Shrike Commander,Piston,2,3.061746
+Aero Commander Aircraft,AC68,680 Commander,Piston,2,3.175144
+Aero Commander Aircraft,AC56,560-F Commander,Piston,2,3.40194
+Aero Commander Aircraft,AC68,680-E Commander,Piston,2,3.40194
+Aero Commander Aircraft,AC72,720 Alti Cruiser,Piston,2,3.40194
+Aero Commander Aircraft,AC68,680-F Commander,Piston,2,3.628736
+Aero Commander Aircraft,AC6L,"680-FL Grand Commander and 680-FL(P) Pressurized Grant Commander (in 1969 the FL(P) was dropped from production and FL aircraft named ""Courser"")",Piston,2,3.855532
+Aero Commander Aircraft,AC80,680-T Turbo Commander,Turboprop,2,4.0596484
+Aero Commander Aircraft,AC6L,685 Commander,Piston,2,4.082328
+Aero Commander Aircraft,AC80,680-V Turbo Commander,Turboprop,2,4.2637648
+Aero Commander Aircraft,AC80,680-W Turbo Commander,Turboprop,2,4.2637648
+Aero Commander Aircraft,AC80,681 Hawk Commander,Turboprop,2,4.2637648
+Aero Commander Aircraft,AC90,690/690-A Twin Commander,Turboprop,2,4.649318
+Aero Commander Aircraft,AC90,690-B Twin Commander,Turboprop,2,4.6833374
+Aero Commander Aircraft,AC90,690-C JetProp 840,Turboprop,2,4.6833374
+Aero Commander Aircraft,AC90,695 JetProp 900 (the 840 with 733 shp),Turboprop,2,4.6833374
+Aero Commander Aircraft,AC90,690-D JetProp 900,Turboprop,2,4.8534344
+Aero Commander Aircraft,AC95,695-A JetProp Commanger 1000,Turboprop,2,5.0802304
+Aero Commander Aircraft,AC95,695-B JetProp Commanger 1000,Turboprop,2,5.329706
+Aero Commander Aircraft,JCOM,1121 Jet Commander,Jet,2,7.6203456
+Aero Spacelines,SGUP,B-377-SG/SGT Super Guppy,Turboprop,4,77.11064
+Aero Vodochody,L60,Aero L-60 Brigadyr,Piston,1,1.559902888
+Aero Vodochody,AE45,"Aero 45, Aero 145",Piston,2,1.599818984
+Aero Vodochody,L29,Aero L-29 Delfin,Jet,1,3.539831968
+Aero Vodochody,L39,Aero L-39 Albatros (L-39C),Jet,1,4.700120304
+Aero Vodochody,L59,Aero L-59 Super Albatros (L-59E),Jet,1,6.999831744
+Aero Vodochody,L159,Aero L-159 Alca (L-159A),Jet,1,8.000002104
+Aeromere,,F8L Falco (Laberda Super Falco Series IV),Piston,1,0.820094336
+Aeronca,AR11,11 Chief,Piston,1,0.56699
+Aeronca,CH7A,"7AC Champion (""Champ"")",Piston,1,0.59874144
+Aeronca,,7EC Traveler,Piston,1,0.6577084
+Aeronca,AR15,15 Sedan,Piston,1,0.9298636
+Aeroprogress Inc.,,T-411 Wolverine,Piston,1,1.9958048
+Aerospatiale,S601,SN 601 Corvette,Jet,2,6.5997636
+Aerospatiale,N262,Nord 262A,Jet,2,10.30107432
+Aerospatiale (Sud Aviation),S210,SE 210 Caravelle III,Jet,2,56.00046832
+Aerostar Aircraft Corp,,600/600A/600E Aerostar (see Piper PA-60/61),Piston,2,2.494756
+Air Tractor,AT3P,AT-300/301,Piston,1,2.26796
+Air Tractor,AT3T,AT-302,Piston,1,3.4926584
+Air Tractor,AT3T,AT-402B,Turboprop,1,4.15943864
+Air Tractor,AT5T,AT-502B,Turboprop,1,4.2637648
+Air Tractor,AT5T,AT-504,Turboprop,1,4.3544832
+Air Tractor,AT5T,AT-502XP,Turboprop,1,4.75364416
+Air Tractor,AT5T,AT-503T,Turboprop,1,4.75364416
+Air Tractor,AT6T,AT-602,Turboprop,1,5.6699
+Air Tractor,AT8T,AT-802A,Turboprop,1,7.257472
+Air Tractor,AT8T,"AT-802F, AT-802F Fire Boss",Turboprop,1,7.257472
+Air Tractor,AT8T,AT-802U,Turboprop,1,7.257472
+Airbus,A318,A318-100,Jet,2,67.99979109
+Airbus,A319,A319neo Sharklet,Jet,2,75.49993481
+Airbus,A319,A319-100,Jet,2,76.49965158
+Airbus,A319,A319-100 Sharklet,Jet,2,76.49965158
+Airbus,A320,A320-200,Jet,2,78.00013391
+Airbus,A320,A320-200 Sharklet,Jet,2,78.00013391
+Airbus,A320,A320neo Sharklet,Jet,2,78.99985068
+Airbus,A321,A321-100,Jet,2,88.99973991
+Airbus,A321,A321-100 Sharklet,Jet,2,88.99973991
+Airbus,A321,A321-200,Jet,2,93.49982614
+Airbus,A321,A321-200 Sharklet,Jet,2,93.49982614
+Airbus,A321,A321neo Sharklet,Jet,2,93.49982614
+Airbus,,A400M Atlas,Turboprop,4,140.9999804
+Airbus,A30B,A300-100/200 (A300-B2-100/200),Jet,2,141.9996972
+Airbus,A310,A310-200,Jet,2,143.9995843
+Airbus,A3ST,A300-600ST BelugaST,Jet,2,154.9982831
+Airbus,A30B,A300-100 (A300-B4-100),Jet,2,157.4993894
+Airbus,A310,A310-300,Jet,2,163.9993627
+Airbus,A30B,A300-200 (A300-B4-200),Jet,2,164.9986259
+Airbus,A30B,"A300-200 (A300-C4-200, F4-200)",Jet,2,164.9986259
+Airbus,A306,A300-600 (B4/C4-600),Jet,2,164.9986259
+Airbus,A306,A300-600 (F4-600),Jet,2,170.4993361
+Airbus,A306,A300-600R (B4-600R),Jet,2,171.6981798
+Airbus,A3ST,A300-600XL BelugaXL,Jet,2,226.9973948
+Airbus,A332,A330-200,Jet,2,241.9999502
+Airbus,A332,A330-200F,Jet,2,241.9999502
+Airbus,A333,A330-300,Jet,2,241.9999502
+Airbus,A358,A350-800 XWB,Jet,2,247.9787464
+Airbus,A342,A340-200,Jet,4,274.9996754
+Airbus,A343,A340-300,Jet,4,276.4997042
+Airbus,A359,A350-900,Jet,2,280.0000736
+Airbus,A359,A350-900 XWB,Jet,2,280.0023416
+Airbus,,A350-1000 XWB,Jet,2,308.896152
+Airbus,,A350-1000,Jet,2,310.9999117
+Airbus,A345,A340-500,Jet,4,379.9994196
+Airbus,A346,A340-600,Jet,4,379.9994196
+Airbus,A388,A380-800,Jet,4,574.9995275
+Airbus,A38F,A380-843F,Jet,4,589.6696
+American Aviation Corporation,AA1,AA-1 Yankee Clipper,Piston,1,0.680388
+American Aviation Corporation,AA1,AA-1A Trainer,Piston,1,0.680388
+American Aviation Corporation,AA5,AA-5A Cheetah,Piston,1,0.9979024
+American Champion Aircraft Corp,CH7A,7EC Champ,Piston,1,0.59874144
+American Champion Aircraft Corp,CH7A,7ECA Citabria Aurora,Piston,1,0.793786
+American Champion Aircraft Corp,CH7B,7GCAA Citabria Adventure,Piston,1,0.793786
+American Champion Aircraft Corp,CH7B,7GCBC Citabria Explorer,Piston,1,0.8164656
+American Champion Aircraft Corp,CH7B,7GCBC Citabria High Country Explorer,Piston,1,0.8845044
+American Champion Aircraft Corp,BL8,8KCAB Super Decathlon,Piston,1,0.8845044
+American Champion Aircraft Corp,BL8,8KCAB Xtreme Decathon,Piston,1,0.8845044
+American Champion Aircraft Corp,BL8,8GCBC Denali Scout,Piston,1,0.9752228
+American Champion Aircraft Corp,BL8,8GCBC Scout,Piston,1,0.9752228
+Anequim,,CEA-311,,,0.499858384
+Antonov,A140,An-140,,,21.5002608
+Antonov,AN26,An-26,,,24.00408864
+Antonov,AN72,"An-72, An-74",Jet,2,34.50020752
+Antonov,AN12,An-12,,,55.111428
+Antonov,A124,An-124 Ruslan,,,404.9991426
+ATR (Aérospatiale/Alenia),AT43,ATR-42-300/320,Turboprop,2,16.7035254
+ATR (Aérospatiale/Alenia),AT44,ATR-42-400 (upgraded version of 320),Turboprop,2,16.7035254
+ATR (Aérospatiale/Alenia),AT45,"ATR-42-500/""600""",Turboprop,2,18.59953996
+ATR (Aérospatiale/Alenia),AT72,ATR-72-101/102,Turboprop,2,19.98979944
+ATR (Aérospatiale/Alenia),AT72,ATR-72-201/202 and -211/212,Turboprop,2,21.5002608
+ATR (Aérospatiale/Alenia),AT72,ATR-72-201/202 with Mod 3651,Turboprop,2,21.99966559
+ATR (Aérospatiale/Alenia),AT72,"ATR-72-212A/""600"" Basic",Turboprop,2,21.99966559
+ATR (Aérospatiale/Alenia),AT72,ATR-72-212A/600 with WV50,Turboprop,2,22.99983595
+Australian Government Aircraft Facilities (GAF),NOMA,Nomad N22B,Turboprop,2,3.855532
+Australian Government Aircraft Facilities (GAF),NOMA,Nomad N24A,Turboprop,2,4.2637648
+Basler Turbo Conversions,DC3T,Basler BT-76 (a DC-3 conversion),Turboprop,2,13.04077
+Beagle Aircraft Limited,PUP,B.121 Pup,Piston,1,0.7257472
+Beagle Aircraft Limited,D4,D.4/108 Auster,Piston,1,0.8618248
+Beagle Aircraft Limited,AUS6,A.61 Terrier,Piston,1,1.0886208
+Beagle Aircraft Limited,D5,D.5/108 Husky,Piston,1,1.0886208
+Beagle Aircraft Limited,AIRD,A.109 Airedale,Piston,1,1.247378
+Beagle Aircraft Limited,BASS,B.206,Piston,2,3.40194
+Beagle Aircraft Limited/Scottish Aviation,BDOG,B.125 Bulldog,Piston,1,1.0659412
+Beechcraft,BE77,Model 77 Skipper,Piston,1,0.7597666
+Beechcraft,BE35,Bonanza 35 (G35),Piston,1,1.417475
+Beechcraft,BE35,Bonanza 35 (P35),Piston,1,1.417475
+Beechcraft,BE35,Bonanza 35 (V35TC) rare as only 7 built,Piston,1,1.5422128
+Beechcraft,BE33,Bonanza 33 (F33A),Piston,1,1.587572
+Beechcraft,BE36,Bonanza 36 (G36),Piston,1,1.6556108
+Beechcraft,B36T,"Bonanza A36TC ""Turbo Bonanza""",Piston,1,1.6556108
+Beechcraft,BE76,Model 76 Duchess,Piston,2,1.7690088
+Beechcraft,BE95,Model 95 Travel Air D95A,Piston,2,1.9050864
+Beechcraft,BE55,Baron 55,Piston,2,2.4040376
+Beechcraft,BE58,Baron 58 (and current G58),Piston,2,2.494756
+Beechcraft,T34P,T-34C Mentor,Turboprop,1,2.494756
+Beechcraft,BE56,Baron 56 TC Turbo Baron,Piston,2,2.71701608
+Beechcraft,BE60,Model 60 Duke (Original 60 and the A60),Piston,2,3.0504062
+Beechcraft,B60T,Duke 60 Royal Turbine,,,3.0730858
+Beechcraft,BE60,Model 60 Duke (B60),Piston,2,3.0730858
+Beechcraft,BE60,Model 60 Royal Turbine Duke,Turboprop,1,3.1978236
+Beechcraft,BE65,Model 65 (Queen Air 65),Piston,,3.4926584
+Beechcraft,BE80,Model 80 (Queen Air 80),Piston,,3.628736
+Beechcraft,BE65,Model 65A (Queen Air A65),Piston,,3.7194544
+Beechcraft,BE70,Model 70 (Queen Air 70),Piston,,3.7194544
+Beechcraft,BE80,Model 80A (Queen Air A80),Piston,,3.855532
+Beechcraft,,UC-45 Expeditor,Piston,2,3.958497384
+Beechcraft,BE80,Model 80B (Queen Air B80),Piston,,3.9916096
+Beechcraft,BE88,Model 88 (Queen Air 88),Piston,,3.9916096
+Beechcraft,BE9L,King Air 90 (A90),Turboprop,2,4.2184056
+Beechcraft,BE18,Model 18 (H18 Super Twin Beech),Piston,2,4.4905608
+Beechcraft,BE9L,King Air 90 (C90B),Turboprop,2,4.5812792
+Beechcraft,BE9L,King Air C90GTx,Turboprop,2,4.5812792
+Beechcraft,BE9L,King Air C90GTi,Turboprop,2,4.75591212
+Beechcraft,BE9L,King Air C90GTx,Turboprop,2,4.75591212
+Beechcraft,BE9T,King Air 90 (F90),Turboprop,2,4.9668324
+Beechcraft,BE99,Model 99 Airliner,Turboprop,2,5.1255896
+Beechcraft,B18T,"Model 18 Turboliner (aka Turbo 18), Hamilton Westwind III",Turboprop,2,5.216308
+Beechcraft,BE10,King Air 100 (B100),Turboprop,2,5.3523856
+Beechcraft,PRM1,"Beech 390 Premier I, IA, II (Raytheon Premier I)",Jet,2,5.6699
+Beechcraft,BE20,King Air 200 and 250 (also marketed as Model 1300 Commuter),Turboprop,2,5.6699
+Beechcraft,BE20,"King Air B200 (A200CT C-12D/F, FWC-12D, and RC-12D/G/H)",Turboprop,2,5.6699
+Beechcraft,BE30,King Air 300 and 300LW (Limited Weight version),Turboprop,2,6.350288
+Beechcraft,B350,King Air 350i (current production model),Turboprop,2,6.80388
+Beechcraft,BE40,Beechjet 400 (from/same as MU-300-10 Diamond II),Jet,2,7.15768176
+Beechcraft,BE40,Beechjet 400A (became Raytheon Beechjet 400A),Jet,2,7.3028312
+Beechcraft,BE20,King Air 200 (A200CT) Military version,Turboprop,2,7.484268
+Beechcraft,B350,"King Air 350ER (B300, B300C)",Turboprop,2,7.484268
+Beechcraft,B190,1900C,Turboprop,2,7.5296272
+Beechcraft,B190,1900D,Turboprop,2,7.76549504
+Bellanca Aircraft Company,BL17,"Viking (17-30, -31, -31TC)",Piston,1,1.360776
+Bellanca Aircraft Company,BL17,"Super Viking (17-30A, -31A, -31ATC)",Piston,1,1.5081934
+Boeing,B731,737-100,Jet,2,49.89512
+Boeing,B732,737-200,Jet,2,52.389876
+Boeing,B712,717-200,Jet,2,53.523856
+Boeing,B712,717-200 HGW Option,Jet,2,54.884632
+Boeing,B732,"737-200, -200C, -200QC, and Advanced 737-200",Jet,2,58.1051352
+Boeing,B735,737-500,Jet,2,61.688512
+Boeing,B733,737-300,Jet,2,63.276084
+Boeing,B733,737-300 with winglets,Jet,2,63.276084
+Boeing,B736,737-600,Jet,2,65.544044
+Boeing,B736,737-600 with winglets,Jet,2,65.544044
+Boeing,C97,C97 STRATOCRUISER,,,66.1337136
+Boeing,B734,737-400,Jet,2,68.0388
+Boeing,B737,737-700 with winglets,Jet,2,70.079964
+Boeing,B737,"737-700, -700C",Jet,2,70.079964
+Boeing,B721,727-100 and -100C Basic,Jet,2,72.57472
+Boeing,B721,727-100 and -100C Option,Jet,2,76.657048
+Boeing,maybe B737,737-BBJ,Jet,2,77.564232
+Boeing,B738,737-800,Jet,2,79.0157264
+Boeing,B738,737-800 with upper and lower winglets,Jet,2,79.0157264
+Boeing,B738,737-800 with winglets,Jet,2,79.0157264
+Boeing,B739,737-900,Jet,2,79.0157264
+Boeing,B739,737-900 with upper and lower winglets,Jet,2,79.0157264
+Boeing,B739,737-900 with winglets,Jet,2,79.0157264
+Boeing,maybe B738,737-BB2,Jet,2,79.0157264
+Boeing,B37M,737 Max 7 (737-7),Jet,2,80.285784
+Boeing,B38M,737 Max 8 (737-8 and -8-200),Jet,2,82.6444624
+Boeing,B722,727-200 Basic,Jet,2,83.8238016
+Boeing,B722,727-200 Basic with winglets,Jet,2,83.8238016
+Boeing,B739,737-900ER,Jet,2,85.1392184
+Boeing,B739,737-900ER with winglets,Jet,2,85.1392184
+Boeing,B39M,737 Max 9,Jet,2,88.3143624
+Boeing,"No ICAO code yet, aicraft not in production",737 Max 10,Jet,2,89.7658568
+Boeing,B722,727-200 Option,Jet,2,95.027524
+Boeing,B722,727-200 Option with winglets,Jet,2,95.027524
+Boeing,B720,720B,Jet,4,106.2766056
+Boeing,B752,"757-200, -200PF",Jet,2,115.892756
+Boeing,B752,"757-200, -200PF with winglets",Jet,2,115.892756
+Boeing,B753,757-300,Jet,2,122.46984
+Boeing,B753,757-300 with winglets,Jet,2,122.46984
+Boeing,B762,767-200,Jet,2,142.88148
+Boeing,B703,707-320B/C,Jet,4,151.3182912
+Boeing,B763,767-300,Jet,2,158.7572
+Boeing,B762,767-200ER,Jet,2,179.16884
+Boeing,B763,767-300 Freighter,Jet,2,186.879904
+Boeing,B763,767-300ER,Jet,2,186.879904
+Boeing,B763,767-300ER with winglets,Jet,2,186.879904
+Boeing,B764,767-400ER,Jet,2,204.1164
+Boeing,B52,B-52 Stratofortress,Jet,,221.352896
+Boeing,B788,787-8 Dreamliner,Jet,2,227.92998
+Boeing,B772,777-200,Jet,2,242.67172
+Boeing,,787-10 Dreamliner (Preliminary Data),Jet,2,254.01152
+Boeing,B789,787-9 Dreamliner,Jet,2,254.01152
+Boeing,B741,747-100B SR,Jet,4,272.1552
+Boeing,B743,747-300SR,Jet,4,272.1552
+Boeing,B744,747-400 DOMESTIC,Jet,4,276.69112
+Boeing,B772,777-200 (HGW Option),Jet,2,286.89694
+Boeing,B773,777-300,Jet,2,299.37072
+Boeing,B74S,747-SP,Jet,4,315.700032
+Boeing,B741,747-100SF (Swingtail Freighter),Jet,4,333.39012
+Boeing,B741,"747-100, -100B",Jet,4,340.194
+Boeing,B772,777-200LR,Jet,2,347.451472
+Boeing,B773,777-300F,Jet,2,347.8143456
+Boeing,B77W,777-300ER,Jet,2,351.5338
+Boeing,B742,"747-200B, -200B COMBI",Jet,4,377.842136
+Boeing,B742,"747-200C, 200F",Jet,4,377.842136
+Boeing,B743,"747-300, -300 COMBI",Jet,4,377.842136
+Boeing,B744,"747-400, 400 COMBI",Jet,4,396.893
+Boeing,B744,747-400F,Jet,4,396.893
+Boeing,B744,747-400ER,Jet,4,412.76872
+Boeing,B744,747-400ER F,Jet,4,412.76872
+Boeing,B748,747-8,Jet,4,447.695304
+Boeing,B748,747-8F,Jet,4,447.695304
+Boeing (McDonnell Douglas),DC3,DC-3A,Piston,2,11.43006481
+Boeing (McDonnell Douglas),DC4,DC-4,,,33.112216
+Boeing (McDonnell Douglas),DC95,DC-9-15,Jet,,41.1407944
+Boeing (McDonnell Douglas),DC95,DC-9-15F,Jet,,41.1407944
+Boeing (McDonnell Douglas),DC92,DC-9-21,Jet,,44.452016
+Boeing (McDonnell Douglas),DC6,DC-6A/B,,,48.534344
+Boeing (McDonnell Douglas),DC93,DC-9-32/33F,Jet,,48.987936
+Boeing (McDonnell Douglas),DC94,DC-9-40,,,51.709488
+Boeing (McDonnell Douglas),,DC-9-41,Jet,,51.709488
+Boeing (McDonnell Douglas),DC93,DC-9-30,,,54.884632
+Boeing (McDonnell Douglas),,DC-9-51,Jet,,54.884632
+Boeing (McDonnell Douglas),,DC-9-80,,,63.50288
+Boeing (McDonnell Douglas),,MD-81,Jet,,63.50288
+Boeing (McDonnell Douglas),DC7,DC-7C,,,64.863656
+Boeing (McDonnell Douglas),,DC-9-82,,,67.812004
+Boeing (McDonnell Douglas),MD82,MD-82,Jet,,67.812004
+Boeing (McDonnell Douglas),,MD-87,Jet,,67.812004
+Boeing (McDonnell Douglas),MD88,MD-88,Jet,,67.812004
+Boeing (McDonnell Douglas),MD90,MD-90-30,Jet,,70.760352
+Boeing (McDonnell Douglas),MD83,MD-83,Jet,,72.57472
+Boeing (McDonnell Douglas),MD90,MD-90-30ER,Jet,,76.203456
+Boeing (McDonnell Douglas),,DC-8-10,,,125.191392
+Boeing (McDonnell Douglas),,MDC-C-133,,,136.0776
+Boeing (McDonnell Douglas),,DC-8-20/30/40,,,142.88148
+Boeing (McDonnell Douglas),,DC-8-40,,,142.88148
+Boeing (McDonnell Douglas),,DC-8-43,Jet,,142.88148
+Boeing (McDonnell Douglas),,DC-8-55,Jet,,147.4174
+Boeing (McDonnell Douglas),,DC-8-55F,Jet,,147.4174
+Boeing (McDonnell Douglas),,DC-8-61,Jet,,147.4174
+Boeing (McDonnell Douglas),,DC-8-71,Jet,,147.4174
+Boeing (McDonnell Douglas),,DC-8-61F,Jet,,148.778176
+Boeing (McDonnell Douglas),,DC-8-71F,Jet,,148.778176
+Boeing (McDonnell Douglas),,DC-8-72,Jet,,151.95332
+Boeing (McDonnell Douglas),,DC-8-72F,Jet,,151.95332
+Boeing (McDonnell Douglas),,DC-8-62,Jet,,158.7572
+Boeing (McDonnell Douglas),,DC-8-62F,Jet,,158.7572
+Boeing (McDonnell Douglas),,DC-8-63,Jet,,161.02516
+Boeing (McDonnell Douglas),,DC-8-63F,Jet,,161.02516
+Boeing (McDonnell Douglas),,DC-8-73,Jet,,161.02516
+Boeing (McDonnell Douglas),,DC-8-73F,Jet,,161.02516
+Boeing (McDonnell Douglas),DC10,DC-10-10,,,206.38436
+Boeing (McDonnell Douglas),,DC-10-40,,,259.454624
+Boeing (McDonnell Douglas),,DC-10-30,,,263.08336
+Boeing (McDonnell Douglas),,MD-11,Jet,,273.28918
+Boeing (McDonnell Douglas),,MD-11F,Jet,,273.28918
+Boeing (McDonnell Douglas),,MD-11 ER,Jet,,285.989756
+Bombardier,LJ24,Learjet 24A,Jet,2,5.669446408
+Bombardier,LJ24,"Learjet 24B-A, C, D-A, F-A",Jet,2,5.669446408
+Bombardier,LJ25,Learjet 25A,Jet,2,5.669446408
+Bombardier,,Learjet 23,Jet,2,5.6699
+Bombardier,LJ24,Learjet 24E,Jet,2,5.8513368
+Bombardier,LJ24,Learjet 24,Jet,2,5.896696
+Bombardier,LJ24,"Learjet 24B, D, F",Jet,2,6.123492
+Bombardier,LJ25,Learjet 25 (all variants except 25A),Jet,2,6.80388
+Bombardier,,Learjet 28/29,Jet,2,6.80388
+Bombardier,LJ31,Learjet 31/31A,Jet,2,7.030676
+Bombardier,LJ35,"Learjet 35/36, 35A/36A",Jet,2,8.164656
+Bombardier,LJ55,Learjet 55,Jet,2,8.845044
+Bombardier,LJ40,Learjet 40,Jet,2,9.525432
+Bombardier,,Learjet 55C,Jet,2,9.525432
+Bombardier,LJ45,"Learjet 45, 45XR",Jet,2,9.752228
+Bombardier,,Learjet 55B,Jet,2,9.752228
+Bombardier,LJ70,Learjet 70,Jet,2,9.752228
+Bombardier,LJ75,Learjet 75,Jet,2,9.752228
+Bombardier,LJ60,"Learjet 60, 60XR",Jet,2,10.319218
+Bombardier,,Canadair CL-215 Scooper (Water),Piston,,16.329312
+Bombardier,,Canadair CL-215 Scooper (Water modified per CSB # CL215-124),Piston,,17.1004184
+Bombardier,,Canadair CL-215T Scooper Retrofit (Water),Turboprop,,17.1684572
+Bombardier,,Canadair CL-415 Super Scooper (Water),Turboprop,,17.1684572
+Bombardier,CL30,Challenger 300 (BD-100),Jet,2,17.6220492
+Bombardier,CL35,Challenger 350,Jet,,18.4158352
+Bombardier,CL60,Challenger 600,Jet,,18.6426312
+Bombardier,CL60,Challenger 601 (CL-601-1A),Jet,,19.5498152
+Bombardier,CL60,Challenger 601 (CL-601-1A/ER),Jet,,19.5498152
+Bombardier,CL60,Challenger 601 (CL-601-3A),Jet,,19.5498152
+Bombardier,CL60,Challenger 601 (CL-601-3A/ER),Jet,,19.5498152
+Bombardier,,Canadair CL-215 Scooper (Land),Piston,,19.731252
+Bombardier,,Canadair CL-215T Scooper Retrofit (Land),Turboprop,,19.731252
+Bombardier,,Canadair CL-415 Super Scooper (Land),Turboprop,,19.8900092
+Bombardier,CL60,Challenger 601 (CL-601-3R),Jet,,20.4569992
+Bombardier,CL60,Challenger 601s (CL-601s),Jet,,20.4569992
+Bombardier,CRJ2,CRJ 100/200 Standard,Jet,,21.5229404
+Bombardier,CL60,Challenger 604/605,Jet,2,21.8631344
+Bombardier,CL60,Challenger 650,Jet,,21.8631344
+Bombardier,CRJ2,CRJ 100/200/440 ER (CL-600-2B19),Jet,,23.133192
+Bombardier,CRJ2,CRJ 100/200/440 LR (CL-600-2B19),Jet,,24.040376
+Bombardier,CRJ7,CRJ 700/701/702 Standard,Jet,,32.998818
+Bombardier,CRJ7,CRJ 700/701/702 ER,Jet,,34.0194
+Bombardier,CRJ7,CRJ 700/701/702 LR,Jet,,34.926584
+Bombardier,,CRJ 900 Standard,Jet,,36.514156
+Bombardier,,CRJ 900 ER,Jet,,37.42134
+Bombardier,,CRJ 705 (based on CRJ 900),Jet,,38.328524
+Bombardier,,CRJ 900 LR,Jet,,38.328524
+Bombardier,,CRJ 1000 EL,Jet,,38.99439706
+Bombardier,,CRJ 1000 Standard,Jet,,40.82328
+Bombardier,,CRJ 1000 ER,Jet,,41.6397456
+Bombardier,GL5T,Global 5000 (BD-700-1A11),Jet,2,41.95726
+Bombardier,GLEX,Global 6000/Express (BD-700-1A10),Jet,2,45.132404
+Bombardier,,Global 8000 (BD-700-2A13),Jet,2,47.5364416
+Bombardier,,Global 7000 (BD-700-2A12),Jet,2,48.19415
+Bombardier,BCS1,CSeries Model CS100,Jet,,60.781328
+Bombardier,BCS3,CSeries Model CS300 (BD-500),Jet,,67.585208
+Bombardier (De Havilland Canada (DHC)),DHC6,Dash 6 Twin Otter (DHC-6-100/200),Turboprop,2,5.246245072
+Bombardier (De Havilland Canada (DHC)),DHC6,Dash 6 Twin Otter (DHC-6-300),Turboprop,2,5.6699
+Bombardier (De Havilland Canada (DHC)),DH8A,Dash 8 Series 100 (DHC-8-101),Turboprop,,14.968536
+Bombardier (De Havilland Canada (DHC)),DH8A,Dash 8 Series 100 (DHC-8-102),Turboprop,,15.648924
+Bombardier (De Havilland Canada (DHC)),DH8A,Dash 8 Series 100 (DHC-8-103),Turboprop,,15.9664384
+Bombardier (De Havilland Canada (DHC)),DH8A,Dash 8 Series 100 (DHC-8-106),Turboprop,,16.4653896
+Bombardier (De Havilland Canada (DHC)),DH8B,Dash 8 Series 200 (DHC-8-201/202),Turboprop,,16.4653896
+Bombardier (De Havilland Canada (DHC)),DH8C,Dash 8 Series 300 (DHC-8-301),Turboprop,,18.6426312
+Bombardier (De Havilland Canada (DHC)),DH8C,Dash 8 Series 300 (DHC-8-311),Turboprop,,19.504456
+Bombardier (De Havilland Canada (DHC)),DH8C,Dash 8 Series 300 (DHC-8-314/315),Turboprop,,19.504456
+Bombardier (De Havilland Canada (DHC)),DHC7,Dash 7 Series 100 (DHC-7-100/101),Turboprop,,19.958048
+Bombardier (De Havilland Canada (DHC)),DHC7,Dash 7 Series 150 (DHC-7-150/151),Turboprop,,21.318824
+Bombardier (De Havilland Canada (DHC)),DH8D,Dash 8 Series 400 (DHC-8-400/401/402),Turboprop,,29.256684
+Bombardier (De Havilland Canada (DHC)),,Dash 8 Q400,Turboprop,,29.5741984
+Breguet Aviation,ATLA,Br. 1150 Atlantic / Atlantique 2,Piston,2,46.1983452
+British Aerospace (BAe)/Avro,,"Avro 748, HS 748",Turboprop,2,21.092028
+British Aerospace (BAe)/Avro,,Lancaster,Piston,4,30.844256
+British Aerospace (BAe)/Avro,B461,"BAe 146-100, 100QC, 100QT",Jet,,38.101728
+British Aerospace (BAe)/Avro,B462,"BAe 146-200, 200QC",Jet,,42.184056
+British Aerospace (BAe)/Avro,RJ70,Avro RJ70,Jet,,43.09124
+British Aerospace (BAe)/Avro,RJ85,Avro RJ85,Jet,,43.998424
+British Aerospace (BAe)/Avro,B463,"BAe 146-300, 300QC, 300QT",Jet,,45.132404
+British Aerospace (BAe)/Avro,RJ1H,Avro RJ100/115,Jet,,46.039588
+British Aerospace (BAe)/Hawker Siddeley (HS),H25A,BAe HS 125-1/2/3-400/600,Jet,2,9.299996776
+British Aircraft Corporation,BA11,BAC One-Eleven 200 (aka 111 or 1-11),Jet,2,35.606972
+British Aircraft Corporation,BA11,BAC One-Eleven 300/400,Jet,2,39.462504
+British Aircraft Corporation,BA11,BAC One-Eleven 475,Jet,2,44.678812
+British Aircraft Corporation,BA11,BAC One-Eleven 500,Jet,2,47.400364
+Britten-Norman,BN2T,BN-2T Defender 4000 / Turbine Islander,Piston,2,3.175144
+Britten-Norman,TRIS,BN-2A Mk III-2 Trislander,Piston,3,4.53592
+Bücker,BU81,Bü 181 Bestmann,Piston,1,0.749787576
+Camair,TNAV,Twin Navion (Camair 480),Piston,2,1.960878216
+Canadair,CL44,CL-44D-4 Yukon,Turboprop,4,95.25432
+CASA,BU33,1-133 Jungmeister (Bücker Bü 133),Piston,1,0.58513368
+CASA,BU31,1-131 Jungmann (Bücker Bü 131),Piston,1,0.680388
+CASA,C212,C-212-200 Aviocar,,,7.700177792
+CASA,H111,2-111,Piston,2,14.00011708
+CASA,C207,C-207A AZOR,,,16.5107488
+Cessna,C162,162 Skycatcher,Piston,1,0.59874144
+Cessna,"C120, C140","120, 140/140A",Piston,1,0.6577084
+Cessna,C150,"150, A150 Aerobat",Piston,1,0.7257472
+Cessna,C152,"152, A152 Aerobat",Piston,1,0.7597666
+Cessna,C170,170,Piston,1,0.9979024
+Cessna,C175,175 Skylark,Piston,1,1.13398
+Cessna,C177,177 Cardinal,Piston,1,1.13398
+Cessna,C172,172 Skyhawk Turbo JT-A (aka a Turbo Skyhawk),Piston,1,1.1566596
+Cessna,C172,"172 Skyhawk, 172S Skyhawk SP, 172 Hawk XP-R172",Piston,1,1.1566596
+Cessna,"C172, C72R","172 Cutlass, 172RG and Cutlass RG",Piston,1,1.2020188
+Cessna,C77R,177 Cardinal RG,Piston,1,1.2700576
+Cessna,C180,180 Skywagon,Piston,1,1.2700576
+Cessna,"C182, C82R","182 Skylane RG, Turbo Skylane, T182T Turbo Skylane",Piston,1,1.4061352
+Cessna,C185,185 Skywagon Amphibian,Piston,1,1.48097788
+Cessna,C205,205 Skywagon,Piston,1,1.4968536
+Cessna,C185,185 Skywagon Floatplane,Piston,1,1.50592544
+Cessna,C185,185 Skywagon,Piston,1,1.5195332
+Cessna,C185,185 Skywagon (A185 Agcarryall),Piston,1,1.5195332
+Cessna,"C190, C195",190/195 Businessliner,Piston,1,1.5195332
+Cessna,COL3,350 Corvalis (formerly the Lancair LC-40 Columbia 350),Piston,1,1.5422128
+Cessna,COL4,400 Corvalis TT (formerly the Lancair LC-41 Columbia 400),Piston,1,1.5422128
+Cessna,C206,"206 Stationair, 206H Stationair, T206H Turbo Stationair",Piston,1,1.6329312
+Cessna,,TTx Model T240 (formerly the Lancair LC-40 Columbia 400),Piston,1,1.6329312
+Cessna,C06T,206 Stationair Turbo HD,Piston,1,1.718660088
+Cessna,"C207, C07T","207 Skywagon (C207), T207 Turbo Skywagon (C07T), 207A Stationair 8 (C207)",Piston,1,1.7236496
+Cessna,"C210, P210, C10T","210 Centurion (C210), Pressurised P-210R (P210), 210T Turbo (C10T)",Piston,1,1.814368
+Cessna,C188,"188 AgPickup/AgTruck/AgWagon, T188 Aghusky (4,400 lbs.)",Piston,1,1.9050864
+Cessna,C337,"337 Skymaster, Turbo, Super Skymaster",Piston,2,1.9958048
+Cessna,C303,303 (T303) Crusader,Piston,2,2.3359988
+Cessna,C320,"320 Skynight, Executive Skyknight (replaced by T310)",Piston,2,2.4040376
+Cessna,C310,310 (Model T310R),Piston,2,2.494756
+Cessna,C340,340 (developed from Cessna 310). 335 is unpressurized 340.,Piston,2,2.7328918
+Cessna,C402,"401 (initial model, lighter, less powerful than the 402)",Piston,2,2.8576296
+Cessna,C411,"411A (landing gear based on 310, wings from 414)",Piston,2,2.948348
+Cessna,C414,414A Chancellor (a less powerfull but lighter 421),Piston,2,3.061746
+Cessna,C02T,402C Utililiner/Businessliner (no tip tanks) -- turbocharged,Piston,2,3.1071052
+Cessna,C421,421C Golden Eagle,Piston,2,3.3792604
+Cessna,C208,208 Caravan,Turboprop,1,3.628736
+Cessna,C404,404 Titan,Piston,2,3.8101728
+Cessna,C425,425 Corsair/Conquest I,Turboprop,2,3.9008912
+Cessna,C510,Citation Mustang (Model C510),Jet,2,3.92130284
+Cessna,C208,208B Grand Caravan EX/Super Cargomaster EX,Turboprop,1,3.994784744
+Cessna,C208,208B Grand Caravan EX Amphibian,Turboprop,1,4.110450704
+Cessna,C441,441 Conquest II,Turboprop,2,4.4678812
+Cessna,C526,CitationJet,Jet,2,4.7173568
+Cessna,C525,Citation CJ1 (Model C525),Jet,2,4.8080752
+Cessna,C525,Citation CJ1+ (Model C525),Jet,2,4.8534344
+Cessna,C25M,Citation M2 (Model C525),Jet,2,4.8534344
+Cessna,"C500, C501","Citation I, I/SP (Model C500/501)",Jet,2,5.3750652
+Cessna,C25A,Citation CJ2 (Model C525A),Jet,2,5.5791816
+Cessna,C25A,Citation CJ2+ (Model C525A),Jet,2,5.6699
+Cessna,C25B,"Citation CJ3, CJ3+ (Model C525B)",Jet,2,6.29132104
+Cessna,A37,318 / A-37 Dragonfly,Jet,2,6.350288
+Cessna,"C550,C551,C55B","Citation II/Bravo, II/SP (Model C550/551)",Jet,2,6.7131616
+Cessna,S550,Citation S/II,Jet,2,6.8492392
+Cessna,C560,"Citation V, Ultra",Jet,2,7.3935496
+Cessna,C560,UC-35 (military designation of Ultra),Jet,2,7.3935496
+Cessna,C560,Citation Ultra Encore,Jet,2,7.54323496
+Cessna,C560,"Citation Encore, Encore+",Jet,2,7.63395336
+Cessna,C25C,Citation CJ4 (Model C525C),Jet,2,7.76095912
+Cessna,C56X,Citation Excel,Jet,2,9.07184
+Cessna,C56X,"Citation XLS, XLS+",Jet,2,9.1625584
+Cessna,C650,"Citation III, VI",Jet,2,9.979024
+Cessna,C650,Citation VII (an upgrade of the III),Jet,2,10.432616
+Cessna,C680,Citation Sovereign,Jet,2,13.7438376
+Cessna,C680,Citation Sovereign+,Jet,2,13.9592938
+Cessna,C68A,Citation Latitude,Jet,2,13.9706336
+Cessna,C750,Citation X,Jet,2,16.3746712
+Cessna,C750,Citation X+,Jet,2,16.6014672
+Cessna,C700,Cessna Citation Longitude,Jet,2,17.916884
+Cirrus,SR20,SR20,Piston,1,0.964336592
+Cirrus,SR22,SR22,Piston,1,1.032375392
+Cirrus,SR22,SR22,Piston,1,1.069569936
+Cirrus,SF50,SF50 Vision Jet,Jet,1,2.721552
+Colonial Aircraft,SKIM,C-1 Skimmer (two seat),Piston,1,0.9752228
+Colonial Aircraft,SKIM,C-2 Skimmer IV (four seat),Piston,1,1.0659412
+Convair,CVLP,CV-240 Convairliner,,,18.95560968
+Convair,CVLP,CV-340 Convairliner,,,22.5435224
+Convair,CVLP,CV-440 Metropolitan,,,22.5435224
+Convair,CVLT,CV-580,Piston,2,24.7661232
+Convair (General Dynamics),,Convair 880,,,87.770052
+Convair (General Dynamics),,Convair 990 Coronado,,,115.66596
+Cubcrafters,,XCub (CC19-180),Piston,1,1.0432616
+Daher-Socata,,Aérospatiale TB 30 Epsilon,Piston,1,1.24964596
+Daher-Socata,TBM8,TBM 850,Turboprop,1,3.353859248
+Daher-Socata,TBM9,TBM 900,Turboprop,1,3.353859248
+Daher-Socata,TBM9,TBM 910,Turboprop,1,3.353859248
+Daher-Socata,TBM9,TBM 960,Turboprop,1,3.45410308
+Dassault Aviation,FA10,Falcon 10 (Mystere 10),Jet,2,8.499860488
+Dassault Aviation,FA20,Falcon 20 (20F) (Mystere 20),Jet,2,12.99994672
+Dassault Aviation,F2TH,Falcon 2000,Jet,2,16.556108
+Dassault Aviation,MIR2,Mirage 2000,Jet,1,17.0097
+Dassault Aviation,MIR2,Mirage 2000D/N,Jet,1,17.236496
+Dassault Aviation,FA50,"Falcon 50, 50EX",Jet,3,18.49748176
+Dassault Aviation,F2TH,Falcon 2000S,Jet,2,18.597272
+Dassault Aviation,F2TH,Falcon 2000EX,Jet,2,19.2323008
+Dassault Aviation,F2TH,Falcon 2000XLS,Jet,2,19.4137376
+Dassault Aviation,F900,"Falcon 900B, 900C",Jet,3,21.092028
+Dassault Aviation,F900,Falcon 900EX,Jet,3,22.226008
+Dassault Aviation,F900,Falcon 900LX,Jet,3,22.226008
+Dassault Aviation,FA7X,Falcon 7X,Jet,3,31.75144
+Dassault Aviation,FA8X,Falcon 8X,Jet,3,33.112216
+Dassault Aviation,,Falcon 8X,Jet,3,33.112216
+Dassault Aviation,,Falcon 6X (aka Falcon 600?),Jet,2,35.13523632
+Dassault Aviation,,Mercure,Jet,2,56.49987311
+"Dassault Aviation, Breguet, Dornier",AJET,Alpha Jet MS1,Jet,1,7.50014372
+Davis,,DA-2,Piston,1,0.510291
+De Havilland Canada,DHC2,DHC-2 Beaver,Piston,1,2.3133192
+De Havilland Canada,DOVE,DHC-104 Dove 8,,,4.0596484
+De Havilland Canada,HERN,DHC-114 Heron 2,,,6.123492
+De Havilland Canada,DHC4,DHC-4 Caribou,,,12.927372
+De Havilland Canada,DHC5,DHC-5 Buffalo,,,22.3167264
+De Havilland Canada,,DHC-106 Comet 4C,,,73.481904
+Diamond,,HK36 Super Dimona (powered glider),Piston,1,0.770199216
+Diamond,DA20,DA20 Katana,Piston,1,0.800136288
+Diamond,DA50,DA50 SuperStar,Piston,1,0.9979024
+Diamond,DA40,DA40 XLT,Piston,1,1.200204432
+Diamond,DA50,DA50-V,Piston,1,1.230141504
+Diamond,DA40,DA40 Tundra or NG,Piston,1,1.309973696
+Diamond,DA42,DA42 Twin Star,Piston,2,1.998979944
+Diamond,DA62,DA62,Piston,2,2.300165032
+Dornier,D228,Do 228NG,Turboprop,2,6.5997636
+Dornier,D328,Do 328-110,Turboprop,2,13.99013806
+Eclipse Aerospace,EA50,Eclipse 500,Jet,2,2.6988724
+Embraer,IPAN,EMB 201 Ipanema 201 (Ag Sprayer),Piston,1,1.799853056
+Embraer,IPAN,EMB 202 Ipanema 202 (Ag Sprayer),Piston,1,1.800306648
+Embraer,IPAN,EMB 203 Ipanema 203 (Ag Sprayer),Piston,1,1.800306648
+Embraer,TUCA,EMB 312 Tucano,Turboprop,1,3.175144
+Embraer,TUCA,EMB 312S Short Tucano,Turboprop,1,3.27493424
+Embraer,E50P,Phenom 100 (EMB-500),Jet,2,4.799910544
+Embraer,E314,"EMB 314 Super Tucano, ALX, or A-29",Turboprop,1,5.40001276
+Embraer,E110,EMB 110 Bandeirante,Turboprop,2,5.90123192
+Embraer,E121,EMB 121 XINGU II,Turboprop,2,6.139821312
+Embraer,E55P,Phenom 300 (EMB-505),Jet,2,8.150141056
+Embraer,E120,EMB 120 Brasilia (ER Model),Turboprop,2,11.98979734
+Embraer,,Legacy 450,Jet,2,16.20412061
+Embraer,E545,Legacy 450,Jet,2,16.21999633
+Embraer,E545,Praetor 500,Jet,2,17.04009066
+Embraer,E545,Legacy 500,Jet,2,17.39978912
+Embraer,,Legacy 500,Jet,2,17.39978912
+Embraer,E550,Legacy 500,,,17.39978912
+Embraer,E135,EMB/ERJ-135 ER,Jet,2,19.0000617
+Embraer,E545,Praetor 600,Jet,2,19.44004594
+Embraer,E145,EMB/ERJ-145 EU,Jet,2,19.98979944
+Embraer,E145,EMB/ERJ-145 MK,Jet,2,19.98979944
+Embraer,E35L,EMB/ERJ-135 LR,Jet,2,19.99977846
+Embraer,E135,EMB/ERJ-140 ER,Jet,2,20.0995687
+Embraer,E145,EMB/ERJ-145 ER,Jet,2,20.59988068
+Embraer,E145,EMB/ERJ-145 EP,Jet,2,20.9899698
+Embraer,E145,EMB/ERJ-145 MP,Jet,2,20.9899698
+Embraer,E135,EMB/ERJ-140 LR,Jet,2,21.09973906
+Embraer,E145,EMB/ERJ-145 LU,Jet,2,21.99014016
+Embraer,E145,EMB/ERJ-145 LR,Jet,2,22.00011918
+Embraer,E45X,EMB/ERJ-145 XR,Jet,2,24.09979655
+Embraer,E170,"EMB 170 LR, SU, or SE",Jet,2,37.1999871
+Embraer,E170,EMB 175 Standard,Jet,2,37.49981142
+Embraer,E170,"EMB 175 Standard, extended wingtips",Jet,2,37.49981142
+Embraer,E170,EMB 175 LR,Jet,2,38.78982706
+Embraer,E170,"EMB 175 LR, extended wingtips",Jet,2,38.78982706
+Embraer,E170,EMB 175 AR,Jet,2,40.369688
+Embraer,E170,"EMB 175 AR, extended wingtips",Jet,2,40.369688
+Embraer,E170,EMB 175-E2,Jet,2,44.79992106
+Embraer,E190,EMB 190 Standard,Jet,2,47.78999953
+Embraer,E190,EMB 195 Standard,Jet,2,48.79016989
+Embraer,E190,EMB 190 LR,Jet,2,50.29972406
+Embraer,E190,EMB 195 LR,Jet,2,50.79005702
+Embraer,E190,EMB 190 AR,Jet,2,51.79975281
+Embraer,E190,EMB 195 AR,Jet,2,52.29008576
+Embraer,E190,EMB 190-E2,Jet,2,56.40008287
+Embraer,E190,EMB 195-E2,Jet,2,61.49981773
+Epic Aircraft,,LT/Dynasty,Turboprop,1,3.3112216
+Epic Aircraft,,E1000,Turboprop,1,3.40194
+ERCO (Engineering and Research Corporation),ERCO,Ercoupe 415-C,Piston,1,0.57152592
+Fabrica Militar de Aviones (FMA),,IA 50 Guarani II,,,7.1213944
+Fairchild Dornier,D28D,Do 28,,,4.01655716
+Fairchild Dornier,,DORNIER LTA,,,6.8492392
+Fairchild Dornier,J328,328 Jet,Jet,2,15.65981021
+Fairchild Dornier,,FAIRCHILD F-27 A,,,19.050864
+Fairchild Dornier,,FAIRCHILD F-27J,,,19.050864
+Fairchild Dornier,,FAIRCHILD FH-227 D,,,19.731252
+Fairchild Dornier,,FAIRCHILD FH-227 B,,,20.638436
+Fairchild Dornier,,FAIRCHILD C-121,,,27.21552
+Fairchild Dornier,,C,,,34.926584
+Fairchild Dornier,,FAIRCHILD C-119,,,34.926584
+Fairchild Industries,A10*,A-10 Warthog,,,23.133192
+Fairchild Swearingen,,Merlin 3B,,,5.6699
+Fairchild Swearingen,,METRO,,,5.6699
+Fairchild Swearingen,SW4,"Merlin 4/4A, Metro 2",Turboprop,2,7.257472
+Fairchild Swearingen,SW3,SA-226T/TB Merlin 3,Turboprop,,7.257472
+Flight Design,,CTLSi,Piston,1,0.59874144
+Fokker,F27,F-27-500 Friendship,Turboprop,2,20.8198728
+Fokker,,F-28-1000 Fellowship,Jet,2,29.48348
+Fokker,,F-28-2000 Fellowship,Jet,2,29.48348
+Fokker,,F-28-3000 Fellowship,Jet,2,33.112216
+Fokker,,F-28-4000 Fellowship,Jet,2,33.112216
+Fokker,,F-28-6000 Fellowship,Jet,2,33.112216
+Fokker VFW,,VFW 614 (engines on over-wing pylons),Jet,2,19.958048
+Game Composites,,GB1 GameBird,Piston,1,0.9979024
+General Dynamics,,F-16C Fighting Falcon,Jet,1,19.1869416
+Glasair Aviation,GLAS,Merlin,Piston,1,0.59874144
+Glasair Aviation,GLST,Sportsman 2+2,Piston,1,1.0659412
+Glasair Aviation,GLAS,Sportsman,Piston,1,1.2020188
+Glasair Aviation (Stoddard-Hamilton Aircraft),GLST,Glastar,Piston,1,0.88904032
+Glasair Aviation (Stoddard-Hamilton Aircraft),GLAS,Glasair II RG,Piston,1,0.9525432
+Glasair Aviation (Stoddard-Hamilton Aircraft),GLAS,Glasair I,Piston,1,0.9979024
+Glasair Aviation (Stoddard-Hamilton Aircraft),GLAS,Glasair III,Piston,1,1.0886208
+Glasair Aviation (Stoddard-Hamilton Aircraft),GLAS,T-9 Stalker (military Glasair III),Piston,1,1.2246984
+Grumman American,AA5,AA-5 Traveler,Piston,1,0.9979024
+Grumman American,AA5,AA-5B Tiger,Piston,1,1.0886208
+Grumman American,GA7,GA-7 Cougar,Piston,2,1.7236496
+Grumman American (Tiger Aircraft),AA5,AG-5B Tiger,Piston,1,1.0886208
+Grumman American Aviation Corp,AA1,AA-1B Trainer and TR-2,Piston,1,0.70760352
+Gulfstream (Grumman Aircraft Engineering),,"Gulfstream I (G-I), model G-159",Turboprop,2,16.329312
+Gulfstream (Gulfstream Aerospace Corp.),GLF4,G300,Jet,2,32.658624
+Gulfstream (Gulfstream Aerospace Corp.),GLF4,Gulfstream IV,Jet,2,33.2029344
+Gulfstream (Gulfstream Aerospace Corp.),GLF4,"Gulfstream IV-SP, G400",Jet,2,33.8379632
+Gulfstream (Gulfstream American Corp.),,"Gulfstream IC (G-IC), model G-159C",Turboprop,2,16.329312
+Gulfstream (Gulfstream American Corp.),GLF2,"Gulfstream II (G-II), model G-1159",Jet,2,29.3927616
+Gulfstream (Gulfstream American Corp.),GLF2,"Gulfstream II-SP (G-II-SP),",Jet,2,29.710276
+Gulfstream (Gulfstream American Corp.),GLF2,"Gulfstream IITT (G-IITT), model G-1159",Jet,2,29.710276
+Gulfstream (Gulfstream American Corp.),GLF2,Gulfstream IIB (G-IIB is a G-II fitted with a G-III wing),Jet,2,31.6153624
+Gulfstream (Gulfstream American Corp.),GLF3,"Gulfstream III (G-III), model G-1159A",Jet,2,31.6153624
+Gulfstream Aerospace Corp.,GALX,G200 (the IAI Galaxy 1126 rebranded in 2001 as the G200),Jet,2,16.1705548
+Gulfstream Aerospace Corp.,G280,G280,Jet,2,17.9622432
+Gulfstream Aerospace Corp.,GLF4,G350 (less range than its big brother the G450),Jet,2,32.1596728
+Gulfstream Aerospace Corp.,GLF4,G450,Jet,2,33.5204488
+Gulfstream Aerospace Corp.,GLF5,G500,Jet,2,36.1059232
+Gulfstream Aerospace Corp.,GLF5,Gulfstream V (G-V),Jet,2,41.050076
+Gulfstream Aerospace Corp.,GLF5,G550 (is the newer version of V-SP),Jet,2,41.276872
+Gulfstream Aerospace Corp.,GLF5,Gulfstream V-SP (G-V-SP),Jet,2,41.276872
+Gulfstream Aerospace Corp.,GA6C,G600,Jet,2,42.9098032
+Gulfstream Aerospace Corp.,GLF6,G650,Jet,2,45.1777632
+Gulfstream Aerospace Corp.,,G650ER,Jet,2,46.9921312
+Gulfstream Aerospace Corp. (General Dynamics),ASTR,G100 (the IAI Astra SPX rebranded in 2002 as the G100),Jet,2,11.1810428
+Gulfstream Aerospace Corp. (General Dynamics),G150,G150,Jet,2,11.8387512
+Gulfstream American (division of Gulfstream Aerospace),AA1,AA-1C Lynx and T-Cat,Piston,1,0.7257472
+Handley-Page,,HP HERALD,,,19.504456
+Hawker Beechcraft,BE40,"Hawker 400, 400A (formerly Raytheon Beechjet 400A)",Jet,2,7.3028312
+Hawker Beechcraft,BE40,Hawker 400XP (formerly Raytheon Beechjet 400A),Jet,2,7.3935496
+Hawker Beechcraft,H25B,Hawker 700 (aka HS 125-700A),Jet,2,11.566596
+Hawker Beechcraft,H25B,Hawker 750 (offshoot of 800XP),Jet,2,12.700576
+Hawker Beechcraft,H25B,"Hawker 800, 800XP (with winglets, formerly BAe/HS 125-700/800)",Jet,2,12.700576
+Hawker Beechcraft,H25B,"Hawker 800, 800XP (without winglets, formerly BAe/HS 125-700/800)",Jet,2,12.700576
+Hawker Beechcraft,H25B,"Hawker 850XP (the 800XP with factory-installed winglets, interior updates)",Jet,2,12.700576
+Hawker Beechcraft,H25B,"Hawker 900XP (the 850XP with better engines, longer range)",Jet,2,12.700576
+Hawker Beechcraft,H25C,Hawker 1000 (formerly BAe/HS 125-1000),Jet,2,14.061352
+Hawker Beechcraft,HA4T,Hawker 4000 (Horizon),Jet,2,17.916884
+Hawker-Siddeley,,HS 125 SERIES 400A,,,10.5686936
+Hawker-Siddeley,,HS 125 SERIES 700A,,,10.9769264
+Hawker-Siddeley,,HS 125 SERIES 600A,,,11.3398
+Hawker-Siddeley,A748,748,,,21.092028
+Hawker-Siddeley,A748,HS 780 ANDOVER C.MK.1,,,22.6796
+Hawker-Siddeley,,ARGOSY,,,42.184056
+Hawker-Siddeley,,ARGOSY,,,43.998424
+Hawker-Siddeley,,HS 121 TRIDENT 1E,,,61.461716
+Hawker-Siddeley,,HS 121 TRIDENT 2E,,,65.317248
+Hawker-Siddeley,,HS 121 TRIDENT 3B,,,68.0388
+Hawker-Siddeley,TRID,HS 121 Trident Super 3B,,,71.667536
+Hawker-Siddeley,,HS 801 NIMROD MR MK.2,,,80.51258
+Honda,HDJT,HA-420 Honda Jet,Jet,2,4.8080752
+Icon Aircraft,,A5 Amphibious Light Sport (S-LSA),Piston,1,0.68492392
+Ilyushin,,IL-12,,,17.236496
+Ilyushin,IL18,IL-18,,,61.07162688
+Ilyushin,IL62,IL-62,,,164.9986259
+Ilyushin,IL76,IL-76,,,169.9994777
+Ilyushin,IL86,IL-86,,,205.9988068
+Israel Aircraft Industries (IAI),ARVA,Arava 101/201,Turboprop,,6.80388
+Israel Aircraft Industries (IAI),JCOM,1121A Jet Commander,Jet,2,7.93786
+Israel Aircraft Industries (IAI),JCOM,1121B Commodore,Jet,2,7.93786
+Israel Aircraft Industries (IAI),WW23,1123 Westwind,Jet,2,9.3893544
+Israel Aircraft Industries (IAI),WW24,1124 Westwind I,Jet,2,10.659412
+Israel Aircraft Industries (IAI),WW24,1124A Westwind II,Jet,2,10.659412
+Israel Aircraft Industries (IAI),ASTR,1125 Astra,Jet,2,10.659412
+Israel Aircraft Industries (IAI),ASTR,1125 Astra SP and SPX,Jet,2,11.1810428
+Israel Aircraft Industries (IAI),ASTR,1125 Astra Galaxy,Jet,2,16.1705548
+Israel Aircraft Industries (IAI) but originally Aero Commander's 1121 Jet Commander,JCOM,1121 Jet Commander,Jet,2,7.6203456
+Issoire Aviation,,"APM 20 Lionceau (Lion cub), APM 21 Lion",Piston,1,0.619606672
+Kawasaki Heavy Industries,,C-1,,,38.70046944
+Khrunichev,,T-411 Aist (Stork),Piston,1,1.650167696
+Lake Aircraft,LA4,LA-4-180,Piston,1,1.0886208
+Lake Aircraft,LA4,LA-4-200 Buccaneer/EP,Piston,1,1.1793392
+Lake Aircraft,LA25,LA-250 Renegade and Seawolf (military) and LA-270 Turbo Renegade and Seafury (saltwater),Piston,1,1.42427888
+Lancair,,Legacy RG,Piston,1,0.9979024
+Lancair,,LC-40 Columbia 300/350/400,Piston,1,1.5422128
+Lancair,,Turbo Mako,Piston,1,1.6102516
+Lancair,EVOT,Evolution (EVOT-850),,,2.0638436
+LET Aircraft Industries,,L-410 UVP-E20,Turboprop,2,6.5997636
+LET Aircraft Industries,,L-410 NG (New Generation),Turboprop,2,7.00119252
+Liberty Aerospace,,Liberty XL-2,Piston,1,0.749787576
+Lockheed,L29A,1329 JetStar,,,19.84465
+Lockheed,P3,P-3 Orion,,,61.23492
+Lockheed,C130,C-130-100-20 Hercules*,,,70.30676
+Lockheed,C130,C-130-100-20 Hercules*,,,70.30676
+Lockheed,C130,"C-130H, J",,,70.30676
+Lockheed,C130,C-130J-30,,,74.389088
+Lockheed,C141,C-141A,,,143.6072272
+Lockheed,C141,C-141B,,,155.582056
+Lockheed,L101,L-1011-1 Tristar,,,195.04456
+Lockheed,L101,1011-100,,,211.373872
+Lockheed,L101,1011-200,,,211.373872
+Lockheed,L101,1011-250,,,231.33192
+Lockheed,L101,1011-500,,,234.053472
+Lockheed,C5,C-5B,,,348.812248
+Lockheed,C5,C-5B Galaxy,,,379.656504
+Mahindra Aerospace,,Airvan 8 Turbo,Piston,1,1.9050864
+Mahindra Aerospace,,Airvan 10,Jet,1,2.154562
+Martin,,MARTIN-404,,,20.3662808
+Mcdonnell Douglas,A4*,A-4,,,11.113004
+Mitsubishi,MU2,MU-2L Marquise/Solitaire,Turboprop,2,5.2503274
+Mitsubishi,,"MU-300 Diamond I, IA",Jet,2,6.63605096
+Mitsubishi,,F-2A,Jet,1,22.0899304
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",MITE,M18C Mite,Piston,1,0.3855532
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",ERCO,A 2-A Cadet (same as Ercoupe 415-C),Piston,1,0.57152592
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M10,M10 Cadet,Piston,1,0.6577084
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20P,"M20, M20A, M20B",Piston,1,1.1113004
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20P,M20D Master,Piston,1,1.13398
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20P,M20G Statesman,Piston,1,1.1453198
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20P,M20C Ranger,Piston,1,1.1679994
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20P,M20E Super 21/Chaparral,Piston,1,1.1679994
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20P,M20F Executive 21,Piston,1,1.24284208
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20P,M20J 201 (MSE Mooney Special Edition),Piston,1,1.24284208
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20T,M20K 231 Turbo Mooney,Piston,1,1.3154168
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20P,M20L PFM,Piston,1,1.3154168
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20T,"M20K 252TSE, Encore",Piston,1,1.41974296
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20P,M20S Eagle/Eagle 2,Piston,1,1.4968536
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20T,M20M TLS Bravo,Piston,1,1.527697856
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20P,"M20U Ovation Ultra, M20V Acclaim Ultra (turbocharged)",Piston,1,1.527697856
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20P,M20R Ovation/Ovation 2/Ovation 3,Piston,1,1.530419408
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M20P,M20TN Acclaim,Piston,1,1.530419408
+"Mooney International Corporation (former Mooney Aviation Company, Inc.)",M22,M22 Mustang,Piston,1,1.66921856
+Moravan Otrokvice,,Zlin Z-43,Piston,1,1.349889792
+Morrisey Aircraft,,"Nifty, 2000",Piston,1,0.7257472
+Morrisey Aircraft,,OM-1 and OM-1-2 Bravo II,Piston,1,0.7711064
+Morrisey Aircraft,,"2150, 2150A Kachina, and 2150ATG",Piston,1,0.824176664
+Mustang Aeronautics for Homebuilding,,Bushby Mustang 2,Piston,1,0.680388
+Nihon,,YS-11,,,24.49850392
+North American Aviation,NAVI,NA-145 Navion A (miliary L-17A/B/C (redesignated U-18A/B/C)),Piston,1,1.247378
+North American Rockwell,SS2P,Thrush Commander 600/800,Piston,1,2.721552
+North American Rockwell,SBR1,Sabre 40/60,Jet,2,8.05579392
+Northrop,B2,B-2,,,152.633708
+Partenavia,,P.68C Victor,,,2.849918536
+Piaggio,,P-166 PORTOFINO,,,4.30005216
+Piaggio,,PD-808,,,8.3007336
+Piaggio Aero,P180,P-180 Avanti,Turboprop,2,4.90332952
+Piaggio Aero,P180,P-180 Avanti II,Turboprop,2,5.4657836
+Pilatus,PC6P,PC-6 Porter,Turboprop,1,2.1999212
+Pilatus,PC12,PC-12 NG,Turboprop,1,4.7400364
+Pilatus,,PC-24 Super Versatile Jet,Jet,2,8.150141056
+Piper,J3,J-3 Cub,Piston,1,0.55338224
+Piper,PA18,PA-18-150 Super Cub,Piston,1,0.793786
+Piper,P28A,PA-28S-160 Cherokee C Seaplane,Piston,1,0.97068688
+Piper,P28A,"PA-28-140/150/160 Cherokee Cruiser/Flight Liner, 150, 160",Piston,1,0.9752228
+Piper,P28A,PA-28S-180 Cherokee C Seaplane,Piston,1,1.007881424
+Piper,P28A,PA-28-151 and -161 Cherokee Warrior/Cadet,Piston,1,1.0546014
+Piper,P28A,PA-28-180 Cherokee,Piston,1,1.0886208
+Piper,P28A,"PA-28-161 Cherokee Warrior II, III",Piston,1,1.10676448
+Piper,P28A,"PA-28-180 Cherokee Challenger, Archer",Piston,1,1.1113004
+Piper,P28R,PA-28R-180 Cherokee Arrow,Piston,1,1.13398
+Piper,P28A,"PA-28-181 Cherokee Archer II, III, DX, TX",Piston,1,1.1566596
+Piper,P28R,PA-28R-200 Cherokee Arrow,Piston,1,1.1793392
+Piper,P28R,PA-28R-200 Cherokee Arrow II,Piston,1,1.1793392
+Piper,P28R,PA-28R-201 Cherokee Arrow III,Piston,1,1.247378
+Piper,P28T,PA-28RT-201 Cherokee Arrow IV (has T tail),Piston,1,1.247378
+Piper,P28B,PA-28-210T Cherokee Turbo Dakota,Piston,1,1.3154168
+Piper,P28A,PA-28-235 Cherokee,Piston,1,1.3154168
+Piper,P28R,PA-28R-201T Cherokee Turbo Arrow III,Piston,1,1.3154168
+Piper,P28R,PA-28RT-201T Cherokee Turbo Arrow IV (has T tail),Piston,1,1.3154168
+Piper,P28A,PA-28-235 Cherokee Pathfinder/Charger,Piston,1,1.360776
+Piper,P28A,PA-28-236 Cherokee Dakota,Piston,1,1.360776
+Piper,PA32,PA-32-300 Cherokee Six,Piston,1,1.5422128
+Piper,PA32,"PA-32-301 Saratoga, 32R-301 Saratoga SP/IIHP, 32R-301T Saratoga II TC, 32-301FT Piper 6X , and 32-301XTC Piper 6XT",Piston,1,1.6329312
+Piper,PA44,"PA-44-180 Seminole, -180T Turbo Seminole",Piston,2,1.7236496
+Piper,PA46,"PA-46-310P Malibu, -350P Malibu Mirage, 46R-350T Malibu Matrix, M350",Piston,1,1.96858928
+Piper,PA34,"PA-34-220T Seneca III, IV, V",Piston,2,2.154562
+Piper,P46T,PA-46-400TP Malibu Meridian,Turboprop,1,2.1999212
+Piper,P46T,"PA-46-500TP Malibu Meridian, M500",Turboprop,1,2.309690464
+Piper,PA31,PA-31-300 Navajo (turbocharged model unofficially known as -310),Piston,2,2.721552
+Piper,P46T,"PA-46-600TP Malibu Meridian, M600",Turboprop,1,2.721552
+Piper,,PA-60 Sequoya (Aerostar 602P) (the Piper version of the 601P),Piston,2,2.721552
+Piper,,PA-61 Aerostar 601 (is the 600 turbocharged),Piston,2,2.721552
+Piper,,PA-61B Aerostar 601B (is 601 with increased WS),Piston,2,2.721552
+Piper,,PA-61P Aerostar 601P (is 601 pressurized + increased gross weight),Piston,2,2.721552
+Piper,AEST,PA-60 Aerostar 700P (602P with counter rot engines),Piston,2,2.86443348
+Piper,PA31,PA-31 Navajo,Piston,2,2.948348
+Piper,PA31,PA-31-325 Navajo C/R,Piston,2,2.948348
+Piper,AEST,PA-60 Aerostar 702P (700P with reinf nose gear for higher MTOW),Piston,2,3.1071052
+Piper,PA31,PA-31-350 Chieftain/T-1020 Navajo C/R,Piston,2,3.175144
+Piper,PA31,PA-31P-350 Mojave,Piston,2,3.2658624
+Piper,PA31,PA-31P Navajo (pressurized),Piston,2,3.5380176
+Piper,PAY1,PA-31T1-500 Cheyenne I/IA,Piston,2,3.9462504
+Piper,PAY2,PA-31T-260 Cheyenne/Cheyenne II,Piston,2,4.082328
+Piper,PAT4,PA-31T3 T-1040 Airliner,Piston,2,4.082328
+Piper,PAY2,PA-31T2 Cheyenne IIXL,Piston,2,4.297330608
+Piper,PAY3,"PA-42-720 Cheyenne III, IIIA",Turboprop,2,5.0802304
+Piper,PAY4,PA-42-1000 Cheyenne 400 LS (formerly IV),Turboprop,2,5.4657836
+Progressive Aerodyne,,Searey Sport/Elite (Amphibious LSA),Piston,1,0.64863656
+PZL Mielec,,M-20 Mewa (Polish version of Piper PA-34-200T Seneca II),Piston,2,2.069740296
+PZL Mielec,M18,M-18 Dromader (an Ag plan) (all versions),Piston,1,5.299768928
+PZL Mielec,AN2,AN-2 Antek,Piston,1,5.499803
+PZL Mielec,,M-28 Skytruck (the M28B Bryza is the non-pressurised ver),Turboprop,2,6.999831744
+Quest,,Kodiak 100,Turboprop,1,3.29080996
+Quest,KODI,Kodiak 900,,,3.628736
+Raytheon,,180,,,1.1113004
+Raytheon,,200,,,1.247378
+Raytheon,,V,,,1.5422128
+Raytheon,,A,,,1.6556108
+Raytheon,,76,,,1.7690088
+Raytheon,,E,,,4.2184056
+Raytheon,,F,,,4.9668324
+Raytheon,,C,,,5.1255896
+Raytheon,,300,,,5.6699
+Raytheon,,B,,,5.6699
+Rockwell International,AC52,COMMANDER 520,,,2.494756
+Rockwell International,AC56,Aero Commander 560,,,2.948348
+Rockwell International,AC68,Aero Commander 680,,,3.40194
+Rockwell International,AC80,Turbo Commander 680T,,,4.0596484
+Rockwell International,AC90,Turbo Commander 690,,,4.649318
+Rockwell International,AC95,Commander 695,,,4.6833374
+Rockwell International,B1*,B-1,,,216.363384
+Saab,SF34,SF 340,,,13.154168
+Saab,SB20,2000,Turboprop,2,22.79980188
+Schweizer,EDGE,269D 330,,,0.7030676
+Schweizer,EDGE,269D 333,,,0.8845044
+Sikorsky,B18T,S-76,,,4.66292576
+Sikorsky,DHC6,Sea King,,,5.443104
+Sikorsky,DHC6,SH-3 Sea King,,,5.6699
+Stearman,NAVI,Kaydet,,,1.4288148
+Stearman,NAVI,PT-13 Kaydet,,,1.50365748
+Stearman,,PT-17 Kaydet,,,164.027939
+Stinson,,10 Voyager,,,36.50599134
+Stinson,,108 Station Wagon,,,46.9921312
+Stinson,,Tri-Motor (A),,,97.9985516
+Stinson,,Reliant,,,179.622432
+Suchoi / Sukhoi,,Su-47 Berkut,,,0.57606184
+Suchoi / Sukhoi,,Su-7,,,0.69853168
+Suchoi / Sukhoi,,Su-30,,,0.775188728
+Suchoi / Sukhoi,,Su-31,,,0.83007336
+Suchoi / Sukhoi,,Su-80,,,0.919884576
+Suchoi / Sukhoi,,Su-33,,,4.762716
+Suchoi / Sukhoi,,Su-34,,,4.762716
+Suchoi / Sukhoi,,Su-35,,,4.762716
+Suchoi / Sukhoi,,Su-37,,,4.762716
+Suchoi / Sukhoi,,Su-38,,,6.4183268
+Sud,,CM-170R Magister,,,0.59874144
+Sud,,SE-210 Caravelle,,,1.230141504
+Sud-Ouest / SNCASO,,SO-1221 Djinn,,,3.599706112
+TBM,TBM7,700,,,2.984181768
+TBM,TBM8,850,,,3.353859248
+TBM,TBM9,960,,,3.45410308
+Vashon,,Ranger R7,Piston,1,0.59874144
+Westland,SH33,Scout,,,9.979024
+Westland,SH36,Sea King,,,11.793392
+Zlin,NAVI,Z-526 Trener Master,,,1.2927372
+Zlin,AC50,Zlin Z-726 Universal,,,3.061746
+Zlin,SBR1,Z-142,,,8.4594908
+Zlin,SBR1,Z-143,,,9.07184
+Zlin,SBR2,Z-182,,,10.5686936
+Zlin,SBR1,Z-181,,,10.886208
+Zlin,SBR2,Z-183,,,11.113004
